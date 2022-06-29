@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/block_with_grass.png</file>
+        <file>images/checkpoint.png</file>
+        <file>images/death_menu.png</file>
+        <file>images/menu.png</file>
+        <file>images/pure_block.png</file>
+        <file>images/stab_down.png</file>
+        <file>images/stab_left.png</file>
+        <file>images/stab_right.png</file>
+        <file>images/stab_up.png</file>
+        <file>images/tutorial.png</file>
+        <file>images/win.png</file>
+        <file>images/new_checkpoint.png</file>
+        <file>images/dead_kid.png</file>
+        <file>images/kid1.png</file>
+        <file>images/kid2.png</file>
+        <file>images/kid3.png</file>
+        <file>images/kid4.png</file>
+        <file>images/help_button.png</file>
+    </qresource>
+</RCC>
